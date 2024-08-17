@@ -42,4 +42,5 @@ This repository contains solutions to weekly exercises for a Python programming 
 - **IMDB Data Analysis**:
     - Analyze two datasets: `imdb_elenco.csv` and `imdb_titulos.csv`.
     - Perform data manipulation and exploration, including filtering, merging, and summarizing data from the IMDB datasets.
+
 **Note:** The `.csv` files used in Week 6 are too large to be uploaded to GitHub. If you need access to these files, please contact me directly, and I will provide them to you.
